@@ -1,9 +1,11 @@
 {
-{ "id": "1", "text": "Hello", usermessage: false},
-{ "id": "2", "text": "fine", usermessage: false},
-{ "id": "3", "text": "How are you?", usermessage: false},
-{ "id": "4", "text": "Nice to hear!", usermessage: false},
-{ "id": "5", "text": "Let's meet!", usermessage: false},
-{ "id": "6", "text": "Great", usermessage: false},
-{ "id": "6", "text": "See you soon!", usermessage: false},
+  "messages": [
+    { "id": "1", "text": "Hello", "usermessage": false },
+    { "id": "2", "text": "fine", "usermessage": false },
+    { "id": "3", "text": "How are you?", "usermessage": false },
+    { "id": "4", "text": "Nice to hear!", "usermessage": false },
+    { "id": "5", "text": "Let's meet!", "usermessage": false },
+    { "id": "6", "text": "Great", "usermessage": false },
+    { "id": "6", "text": "See you soon!", "usermessage": false }
+  ]
 }
